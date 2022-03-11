@@ -33,3 +33,6 @@
   <img align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
+
+<p align="center"> Total de Visitas! </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xCall/count.svg" /></p>  
