@@ -7,7 +7,8 @@
 - mail: carlosfaita99@gmail.com
 - Twitter: calosdf99
 - linkedin: https://www.linkedin.com/in/carlos-faita/
-- 
+- full stack development intern: https://canex.com.br/
+
 ⚡ Curiosity: 
 * Brazilian
 * 22 years
