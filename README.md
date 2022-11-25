@@ -5,7 +5,6 @@
 - 👯 I'm looking to collaborate on open source projects that aim to collaborate with society improvements.
 - 📫 How to reach me: 
 - mail: carlosfaita99@gmail.com
-- Twitter: calosdf99
 - linkedin: https://www.linkedin.com/in/carlos-faita/
 - full stack development intern: https://canex.com.br/
 
