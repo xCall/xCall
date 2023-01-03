@@ -1,16 +1,16 @@
 ## Hi I'm Carlos Daniel
 
 - 🔭 I'm currently working with Fullstack development.
-- 🌱 I'm learning Typescript, nodejs, express, typeorm, Reactjs, PostgresSql
+- 🌱 I'm learning Typescript, nodejs, express, typeorm, Reactjs, .NetCore, SQL, PostgresSql
 - 👯 I'm looking to collaborate on open source projects that aim to collaborate with society improvements.
 - 📫 How to reach me: 
 - mail: carlosfaita99@gmail.com
 - linkedin: https://www.linkedin.com/in/carlos-faita/
-- full stack development intern: https://canex.com.br/
+- CRM Dynamics junior developer: https://pentare.com.br/
 
 ⚡ Curiosity: 
 * Brazilian
-* 22 years
+* 23 years
 * Anime fan
 * Technology lover
 
