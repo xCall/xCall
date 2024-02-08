@@ -6,11 +6,11 @@
 - 📫 How to reach me: 
 - mail: carlosfaita99@gmail.com
 - linkedin: https://www.linkedin.com/in/carlos-faita/
-- CRM Dynamics junior developer: https://pentare.com.br/
+- CRM Dynamics full developer: https://pentare.com.br/
 
 ⚡ Curiosity: 
 * Brazilian
-* 23 years
+* 24 years
 * Anime fan
 * Technology lover
 
