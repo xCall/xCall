@@ -17,9 +17,9 @@
 
 <div>
   <a href="http://github.com/xCall">
-  <img src="http://github-readme-stats.vercel.app/api?username=xCall&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" width="200px">
+  <img src="http://github-readme-stats.vercel.app/api?username=xCall&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" width="400px">
     <br>
-  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=xCall&layout=compact&langs_count=16&theme=dracula" height="180em" width="200px">
+  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=xCall&layout=compact&langs_count=16&theme=dracula" height="180em" width="400px">
 </div>
   
 ##
