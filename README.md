@@ -19,7 +19,7 @@
   <a href="http://github.com/xCall">
   <img src="http://github-readme-stats.vercel.app/api?username=xCall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em">
   <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=xCall&layout=compact&langs_count=16&theme=dracula" height="180em">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  <img src="http://github-readme-stats.vercel.app/api?username=xCall&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180em">
 </div>
   
 ##
